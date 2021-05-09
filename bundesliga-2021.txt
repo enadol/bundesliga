@@ -447,9 +447,9 @@ Spieltag 32
   Werder Bremen            0:0  Bayer 04 Leverkusen
   Bayern München           6:0  Bor. Mönchengladbach
 [So 9.5.]
-  1. FC Köln               -  SC Freiburg
-  Eintracht Frankfurt      -  1. FSV Mainz 05
-  Hertha BSC               -  Arminia Bielefeld
+  1. FC Köln               1:4  SC Freiburg
+  Eintracht Frankfurt      1:1  1. FSV Mainz 05
+  Hertha BSC               0:0  Arminia Bielefeld
 
 Spieltag 33
 [Sa 15.5.]
