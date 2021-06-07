@@ -306,11 +306,10 @@ Spieltag 22
   Eintracht Frankfurt      2:1 (2:0)  Bayern München
   1. FC Köln               0:1 (0:0)  VfB Stuttgart
   FC Schalke 04            0:4 (0:2)  Borussia Dortmund
-  [S0 21.2.]
+[So 21.2.]
   FC Augsburg              1:1 (1:0)  Bayer 04 Leverkusen
   Hertha BSC               0:3 (0:1)  RB Leipzig
   TSG 1899 Hoffenheim      4:0 (2:0)  Werder Bremen
-
 
 Spieltag 23
 [Fr 26.2.]
