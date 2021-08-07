@@ -1,340 +1,340 @@
 1. Spieltag
-        Bayern München  -  Bor. Mönchengladbach
-        VfL Bochum  -  VfL Wolfsburg
-        Bayer 04 Leverkusen  -  1. FC Union Berlin
-        SpVgg Greuther Fürth  -  VfB Stuttgart
-        TSG Hoffenheim  -  FC Augsburg
-        SC Freiburg  -  Arminia Bielefeld
-        Eintracht Frankfurt  -  Borussia Dortmund
-        RB Leipzig  -  1. FSV Mainz 05
-        Hertha BSC  -  1. FC Köln
-2. Spieltag
-        VfB Stuttgart  -  RB Leipzig
-        FC Augsburg  -  Eintracht Frankfurt
-        Borussia Dortmund  -  SC Freiburg
-        VfL Wolfsburg  -  Hertha BSC
-        1. FSV Mainz 05  -  VfL Bochum
-        Arminia Bielefeld  -  SpVgg Greuther Fürth
-        Bor. Mönchengladbach  -  Bayer 04 Leverkusen
-        1. FC Union Berlin  -  TSG Hoffenheim
-        1. FC Köln  -  Bayern München
-3. Spieltag
-        TSG Hoffenheim  -  Borussia Dortmund
-        SC Freiburg  -  VfB Stuttgart
-        SpVgg Greuther Fürth  -  1. FSV Mainz 05
-        Bayer 04 Leverkusen  -  FC Augsburg
-        Eintracht Frankfurt  -  Arminia Bielefeld
-        VfL Bochum  -  1. FC Köln
-        Hertha BSC  -  Bayern München
-        Bor. Mönchengladbach  -  1. FC Union Berlin
-        RB Leipzig  -  VfL Wolfsburg
-4. Spieltag
-        Borussia Dortmund  -  Bayer 04 Leverkusen
-        FC Augsburg  -  1. FC Union Berlin
-        1. FC Köln  -  SC Freiburg
-        1. FSV Mainz 05  -  TSG Hoffenheim
-        VfL Wolfsburg  -  SpVgg Greuther Fürth
-        Bayern München  -  RB Leipzig
-        VfB Stuttgart  -  Eintracht Frankfurt
-        Hertha BSC  -  VfL Bochum
-        Arminia Bielefeld  -  Bor. Mönchengladbach
-5. Spieltag
-        SpVgg Greuther Fürth  -  Hertha BSC
-        VfL Bochum  -  Bayern München
-        SC Freiburg  -  1. FSV Mainz 05
-        Bor. Mönchengladbach  -  FC Augsburg
-        TSG Hoffenheim  -  Arminia Bielefeld
-        RB Leipzig  -  1. FC Köln
-        Bayer 04 Leverkusen  -  VfB Stuttgart
-        1. FC Union Berlin  -  Borussia Dortmund
-        Eintracht Frankfurt  -  VfL Wolfsburg
-6. Spieltag
-        Bayern München  -  SpVgg Greuther Fürth
-        Hertha BSC  -  RB Leipzig
-        1. FC Köln  -  Eintracht Frankfurt
-        1. FSV Mainz 05  -  Bayer 04 Leverkusen
-        Arminia Bielefeld  -  1. FC Union Berlin
-        VfL Wolfsburg  -  TSG Hoffenheim
-        Borussia Dortmund  -  Bor. Mönchengladbach
-        VfB Stuttgart  -  VfL Bochum
-        FC Augsburg  -  SC Freiburg
-7. Spieltag
-        Eintracht Frankfurt  -  Bayern München
-        VfL Bochum  -  RB Leipzig
-        FC Augsburg  -  Borussia Dortmund
-        Bor. Mönchengladbach  -  VfL Wolfsburg
-        TSG Hoffenheim  -  VfB Stuttgart
-        1. FC Union Berlin  -  1. FSV Mainz 05
-        SC Freiburg  -  Hertha BSC
-        Bayer 04 Leverkusen  -  Arminia Bielefeld
-        SpVgg Greuther Fürth  -  1. FC Köln
-8. Spieltag
-        1. FSV Mainz 05  -  Borussia Dortmund
-        Hertha BSC  -  Eintracht Frankfurt
-        Bayern München  -  Bayer 04 Leverkusen
-        VfL Wolfsburg  -  1. FC Union Berlin
-        VfB Stuttgart  -  Bor. Mönchengladbach
-        RB Leipzig  -  SC Freiburg
-        1. FC Köln  -  TSG Hoffenheim
-        Arminia Bielefeld  -  FC Augsburg
-        VfL Bochum  -  SpVgg Greuther Fürth
-9. Spieltag
-        TSG Hoffenheim  -  Bayern München
-        SpVgg Greuther Fürth  -  RB Leipzig
-        SC Freiburg  -  VfL Wolfsburg
-        1. FC Union Berlin  -  VfB Stuttgart
-        FC Augsburg  -  1. FSV Mainz 05
-        Bor. Mönchengladbach  -  Hertha BSC
-        Borussia Dortmund  -  Arminia Bielefeld
-        Bayer 04 Leverkusen  -  1. FC Köln
-        Eintracht Frankfurt  -  VfL Bochum
-10. Spieltag
-        1. FC Köln  -  Borussia Dortmund
-        RB Leipzig  -  Eintracht Frankfurt
-        VfL Wolfsburg  -  Bayer 04 Leverkusen
-        Bayern München  -  1. FC Union Berlin
-        VfL Bochum  -  Bor. Mönchengladbach
-        SpVgg Greuther Fürth  -  SC Freiburg
-        Hertha BSC  -  TSG Hoffenheim
-        VfB Stuttgart  -  FC Augsburg
-        1. FSV Mainz 05  -  Arminia Bielefeld
-11. Spieltag
-        SC Freiburg  -  Bayern München
-        Borussia Dortmund  -  RB Leipzig
-        FC Augsburg  -  VfL Wolfsburg
-        Arminia Bielefeld  -  VfB Stuttgart
-        Bor. Mönchengladbach  -  1. FSV Mainz 05
-        Bayer 04 Leverkusen  -  Hertha BSC
-        1. FC Union Berlin  -  1. FC Köln
-        TSG Hoffenheim  -  VfL Bochum
-        Eintracht Frankfurt  -  SpVgg Greuther Fürth
-12. Spieltag
-        VfB Stuttgart  -  Borussia Dortmund
-        VfL Bochum  -  Bayer 04 Leverkusen
-        Hertha BSC  -  1. FC Union Berlin
-        SpVgg Greuther Fürth  -  Bor. Mönchengladbach
-        Eintracht Frankfurt  -  SC Freiburg
-        RB Leipzig  -  TSG Hoffenheim
-        1. FC Köln  -  1. FSV Mainz 05
-        Bayern München  -  FC Augsburg
-        VfL Wolfsburg  -  Arminia Bielefeld
-13. Spieltag
-        Arminia Bielefeld  -  Bayern München
-        Bayer 04 Leverkusen  -  RB Leipzig
-        Borussia Dortmund  -  VfL Wolfsburg
-        1. FC Union Berlin  -  Eintracht Frankfurt
-        1. FSV Mainz 05  -  VfB Stuttgart
-        FC Augsburg  -  Hertha BSC
-        Bor. Mönchengladbach  -  1. FC Köln
-        SC Freiburg  -  VfL Bochum
-        TSG Hoffenheim  -  SpVgg Greuther Fürth
-14. Spieltag
-        Bayern München  -  Borussia Dortmund
-        SpVgg Greuther Fürth  -  Bayer 04 Leverkusen
-        RB Leipzig  -  1. FC Union Berlin
-        SC Freiburg  -  Bor. Mönchengladbach
-        Hertha BSC  -  VfB Stuttgart
-        Eintracht Frankfurt  -  TSG Hoffenheim
-        VfL Wolfsburg  -  1. FSV Mainz 05
-        VfL Bochum  -  FC Augsburg
-        1. FC Köln  -  Arminia Bielefeld
-15. Spieltag
-        1. FSV Mainz 05  -  Bayern München
-        Bor. Mönchengladbach  -  RB Leipzig
-        VfB Stuttgart  -  VfL Wolfsburg
-        Bayer 04 Leverkusen  -  Eintracht Frankfurt
-        TSG Hoffenheim  -  SC Freiburg
-        Arminia Bielefeld  -  Hertha BSC
-        FC Augsburg  -  1. FC Köln
-        Borussia Dortmund  -  VfL Bochum
-        1. FC Union Berlin  -  SpVgg Greuther Fürth
-16. Spieltag
-        SpVgg Greuther Fürth  -  Borussia Dortmund
-        1. FC Köln  -  VfL Wolfsburg
-        TSG Hoffenheim  -  Bayer 04 Leverkusen
-        SC Freiburg  -  1. FC Union Berlin
-        Eintracht Frankfurt  -  Bor. Mönchengladbach
-        Bayern München  -  VfB Stuttgart
-        Hertha BSC  -  1. FSV Mainz 05
-        RB Leipzig  -  FC Augsburg
-        VfL Bochum  -  Arminia Bielefeld
-17. Spieltag
-        VfL Wolfsburg  -  Bayern München
-        Arminia Bielefeld  -  RB Leipzig
-        1. FSV Mainz 05  -  Eintracht Frankfurt
-        Bayer 04 Leverkusen  -  SC Freiburg
-        Bor. Mönchengladbach  -  TSG Hoffenheim
-        Borussia Dortmund  -  Hertha BSC
-        VfB Stuttgart  -  1. FC Köln
-        1. FC Union Berlin  -  VfL Bochum
-        FC Augsburg  -  SpVgg Greuther Fürth
-18. Spieltag
         Bor. Mönchengladbach  -  Bayern München
-        1. FSV Mainz 05  -  RB Leipzig
-        Borussia Dortmund  -  Eintracht Frankfurt
-        1. FC Union Berlin  -  Bayer 04 Leverkusen
-        Arminia Bielefeld  -  SC Freiburg
-        FC Augsburg  -  TSG Hoffenheim
-        1. FC Köln  -  Hertha BSC
         VfL Wolfsburg  -  VfL Bochum
+        1. FC Union Berlin  -  Bayer 04 Leverkusen
         VfB Stuttgart  -  SpVgg Greuther Fürth
-19. Spieltag
+        FC Augsburg  -  TSG Hoffenheim
+        Arminia Bielefeld  -  SC Freiburg
+        Borussia Dortmund  -  Eintracht Frankfurt
+        1. FSV Mainz 05  -  RB Leipzig
+        1. FC Köln  -  Hertha BSC
+2. Spieltag
+        RB Leipzig  -  VfB Stuttgart
+        Eintracht Frankfurt  -  FC Augsburg
         SC Freiburg  -  Borussia Dortmund
         Hertha BSC  -  VfL Wolfsburg
-        TSG Hoffenheim  -  1. FC Union Berlin
-        Bayer 04 Leverkusen  -  Bor. Mönchengladbach
-        RB Leipzig  -  VfB Stuttgart
         VfL Bochum  -  1. FSV Mainz 05
-        Eintracht Frankfurt  -  FC Augsburg
         SpVgg Greuther Fürth  -  Arminia Bielefeld
+        Bayer 04 Leverkusen  -  Bor. Mönchengladbach
+        TSG Hoffenheim  -  1. FC Union Berlin
         Bayern München  -  1. FC Köln
-20. Spieltag
-        VfL Wolfsburg  -  RB Leipzig
-        Arminia Bielefeld  -  Eintracht Frankfurt
-        FC Augsburg  -  Bayer 04 Leverkusen
-        1. FC Union Berlin  -  Bor. Mönchengladbach
-        VfB Stuttgart  -  SC Freiburg
+3. Spieltag
         Borussia Dortmund  -  TSG Hoffenheim
-        Bayern München  -  Hertha BSC
-        1. FC Köln  -  VfL Bochum
+        VfB Stuttgart  -  SC Freiburg
         1. FSV Mainz 05  -  SpVgg Greuther Fürth
-21. Spieltag
-        RB Leipzig  -  Bayern München
+        FC Augsburg  -  Bayer 04 Leverkusen
+        Arminia Bielefeld  -  Eintracht Frankfurt
+        1. FC Köln  -  VfL Bochum
+        Bayern München  -  Hertha BSC
+        1. FC Union Berlin  -  Bor. Mönchengladbach
+        VfL Wolfsburg  -  RB Leipzig
+4. Spieltag
         Bayer 04 Leverkusen  -  Borussia Dortmund
-        SpVgg Greuther Fürth  -  VfL Wolfsburg
-        Eintracht Frankfurt  -  VfB Stuttgart
-        TSG Hoffenheim  -  1. FSV Mainz 05
         1. FC Union Berlin  -  FC Augsburg
+        SC Freiburg  -  1. FC Köln
+        TSG Hoffenheim  -  1. FSV Mainz 05
+        SpVgg Greuther Fürth  -  VfL Wolfsburg
+        RB Leipzig  -  Bayern München
+        Eintracht Frankfurt  -  VfB Stuttgart
         VfL Bochum  -  Hertha BSC
         Bor. Mönchengladbach  -  Arminia Bielefeld
-        SC Freiburg  -  1. FC Köln
-22. Spieltag
+5. Spieltag
+        Hertha BSC  -  SpVgg Greuther Fürth
+        Bayern München  -  VfL Bochum
+        1. FSV Mainz 05  -  SC Freiburg
+        FC Augsburg  -  Bor. Mönchengladbach
+        Arminia Bielefeld  -  TSG Hoffenheim
         1. FC Köln  -  RB Leipzig
-        VfL Wolfsburg  -  Eintracht Frankfurt
         VfB Stuttgart  -  Bayer 04 Leverkusen
         Borussia Dortmund  -  1. FC Union Berlin
-        FC Augsburg  -  Bor. Mönchengladbach
-        1. FSV Mainz 05  -  SC Freiburg
-        Arminia Bielefeld  -  TSG Hoffenheim
-        Bayern München  -  VfL Bochum
-        Hertha BSC  -  SpVgg Greuther Fürth
-23. Spieltag
+        VfL Wolfsburg  -  Eintracht Frankfurt
+6. Spieltag
         SpVgg Greuther Fürth  -  Bayern München
-        Bor. Mönchengladbach  -  Borussia Dortmund
-        TSG Hoffenheim  -  VfL Wolfsburg
-        VfL Bochum  -  VfB Stuttgart
-        Bayer 04 Leverkusen  -  1. FSV Mainz 05
-        SC Freiburg  -  FC Augsburg
         RB Leipzig  -  Hertha BSC
-        1. FC Union Berlin  -  Arminia Bielefeld
         Eintracht Frankfurt  -  1. FC Köln
-24. Spieltag
+        Bayer 04 Leverkusen  -  1. FSV Mainz 05
+        1. FC Union Berlin  -  Arminia Bielefeld
+        TSG Hoffenheim  -  VfL Wolfsburg
+        Bor. Mönchengladbach  -  Borussia Dortmund
+        VfL Bochum  -  VfB Stuttgart
+        SC Freiburg  -  FC Augsburg
+7. Spieltag
         Bayern München  -  Eintracht Frankfurt
-        Arminia Bielefeld  -  Bayer 04 Leverkusen
-        1. FSV Mainz 05  -  1. FC Union Berlin
-        VfL Wolfsburg  -  Bor. Mönchengladbach
-        Hertha BSC  -  SC Freiburg
-        VfB Stuttgart  -  TSG Hoffenheim
-        Borussia Dortmund  -  FC Augsburg
         RB Leipzig  -  VfL Bochum
+        Borussia Dortmund  -  FC Augsburg
+        VfL Wolfsburg  -  Bor. Mönchengladbach
+        VfB Stuttgart  -  TSG Hoffenheim
+        1. FSV Mainz 05  -  1. FC Union Berlin
+        Hertha BSC  -  SC Freiburg
+        Arminia Bielefeld  -  Bayer 04 Leverkusen
         1. FC Köln  -  SpVgg Greuther Fürth
-25. Spieltag
-        Bayer 04 Leverkusen  -  Bayern München
-        SC Freiburg  -  RB Leipzig
-        1. FC Union Berlin  -  VfL Wolfsburg
-        Bor. Mönchengladbach  -  VfB Stuttgart
+8. Spieltag
         Borussia Dortmund  -  1. FSV Mainz 05
         Eintracht Frankfurt  -  Hertha BSC
-        FC Augsburg  -  Arminia Bielefeld
+        Bayer 04 Leverkusen  -  Bayern München
+        1. FC Union Berlin  -  VfL Wolfsburg
+        Bor. Mönchengladbach  -  VfB Stuttgart
+        SC Freiburg  -  RB Leipzig
         TSG Hoffenheim  -  1. FC Köln
+        FC Augsburg  -  Arminia Bielefeld
         SpVgg Greuther Fürth  -  VfL Bochum
-26. Spieltag
-        Arminia Bielefeld  -  Borussia Dortmund
-        VfL Bochum  -  Eintracht Frankfurt
-        1. FC Köln  -  Bayer 04 Leverkusen
-        VfB Stuttgart  -  1. FC Union Berlin
-        Hertha BSC  -  Bor. Mönchengladbach
-        VfL Wolfsburg  -  SC Freiburg
+9. Spieltag
         Bayern München  -  TSG Hoffenheim
-        1. FSV Mainz 05  -  FC Augsburg
         RB Leipzig  -  SpVgg Greuther Fürth
-27. Spieltag
-        1. FC Union Berlin  -  Bayern München
+        VfL Wolfsburg  -  SC Freiburg
+        VfB Stuttgart  -  1. FC Union Berlin
+        1. FSV Mainz 05  -  FC Augsburg
+        Hertha BSC  -  Bor. Mönchengladbach
+        Arminia Bielefeld  -  Borussia Dortmund
+        1. FC Köln  -  Bayer 04 Leverkusen
+        VfL Bochum  -  Eintracht Frankfurt
+10. Spieltag
+        Borussia Dortmund  -  1. FC Köln
         Eintracht Frankfurt  -  RB Leipzig
         Bayer 04 Leverkusen  -  VfL Wolfsburg
-        FC Augsburg  -  VfB Stuttgart
-        Arminia Bielefeld  -  1. FSV Mainz 05
-        TSG Hoffenheim  -  Hertha BSC
-        Borussia Dortmund  -  1. FC Köln
+        1. FC Union Berlin  -  Bayern München
         Bor. Mönchengladbach  -  VfL Bochum
         SC Freiburg  -  SpVgg Greuther Fürth
-28. Spieltag
-        RB Leipzig  -  Borussia Dortmund
-        SpVgg Greuther Fürth  -  Eintracht Frankfurt
-        Hertha BSC  -  Bayer 04 Leverkusen
-        1. FC Köln  -  1. FC Union Berlin
-        1. FSV Mainz 05  -  Bor. Mönchengladbach
+        TSG Hoffenheim  -  Hertha BSC
+        FC Augsburg  -  VfB Stuttgart
+        Arminia Bielefeld  -  1. FSV Mainz 05
+11. Spieltag
         Bayern München  -  SC Freiburg
-        VfL Bochum  -  TSG Hoffenheim
+        RB Leipzig  -  Borussia Dortmund
         VfL Wolfsburg  -  FC Augsburg
         VfB Stuttgart  -  Arminia Bielefeld
-29. Spieltag
-        FC Augsburg  -  Bayern München
-        TSG Hoffenheim  -  RB Leipzig
-        Arminia Bielefeld  -  VfL Wolfsburg
-        SC Freiburg  -  Eintracht Frankfurt
+        1. FSV Mainz 05  -  Bor. Mönchengladbach
+        Hertha BSC  -  Bayer 04 Leverkusen
+        1. FC Köln  -  1. FC Union Berlin
+        VfL Bochum  -  TSG Hoffenheim
+        SpVgg Greuther Fürth  -  Eintracht Frankfurt
+12. Spieltag
         Borussia Dortmund  -  VfB Stuttgart
-        1. FC Union Berlin  -  Hertha BSC
-        1. FSV Mainz 05  -  1. FC Köln
         Bayer 04 Leverkusen  -  VfL Bochum
+        1. FC Union Berlin  -  Hertha BSC
         Bor. Mönchengladbach  -  SpVgg Greuther Fürth
-30. Spieltag
-        VfL Wolfsburg  -  Borussia Dortmund
+        SC Freiburg  -  Eintracht Frankfurt
+        TSG Hoffenheim  -  RB Leipzig
+        1. FSV Mainz 05  -  1. FC Köln
+        FC Augsburg  -  Bayern München
+        Arminia Bielefeld  -  VfL Wolfsburg
+13. Spieltag
+        Bayern München  -  Arminia Bielefeld
         RB Leipzig  -  Bayer 04 Leverkusen
+        VfL Wolfsburg  -  Borussia Dortmund
         Eintracht Frankfurt  -  1. FC Union Berlin
+        VfB Stuttgart  -  1. FSV Mainz 05
+        Hertha BSC  -  FC Augsburg
         1. FC Köln  -  Bor. Mönchengladbach
         VfL Bochum  -  SC Freiburg
         SpVgg Greuther Fürth  -  TSG Hoffenheim
-        VfB Stuttgart  -  1. FSV Mainz 05
-        Hertha BSC  -  FC Augsburg
-        Bayern München  -  Arminia Bielefeld
-31. Spieltag
+14. Spieltag
         Borussia Dortmund  -  Bayern München
+        Bayer 04 Leverkusen  -  SpVgg Greuther Fürth
         1. FC Union Berlin  -  RB Leipzig
-        1. FSV Mainz 05  -  VfL Wolfsburg
-        TSG Hoffenheim  -  Eintracht Frankfurt
         Bor. Mönchengladbach  -  SC Freiburg
         VfB Stuttgart  -  Hertha BSC
-        Arminia Bielefeld  -  1. FC Köln
+        TSG Hoffenheim  -  Eintracht Frankfurt
+        1. FSV Mainz 05  -  VfL Wolfsburg
         FC Augsburg  -  VfL Bochum
-        Bayer 04 Leverkusen  -  SpVgg Greuther Fürth
-32. Spieltag
-        VfL Bochum  -  Borussia Dortmund
-        Eintracht Frankfurt  -  Bayer 04 Leverkusen
-        SpVgg Greuther Fürth  -  1. FC Union Berlin
+        Arminia Bielefeld  -  1. FC Köln
+15. Spieltag
+        Bayern München  -  1. FSV Mainz 05
         RB Leipzig  -  Bor. Mönchengladbach
         VfL Wolfsburg  -  VfB Stuttgart
+        Eintracht Frankfurt  -  Bayer 04 Leverkusen
         SC Freiburg  -  TSG Hoffenheim
-        Bayern München  -  1. FSV Mainz 05
-        1. FC Köln  -  FC Augsburg
         Hertha BSC  -  Arminia Bielefeld
-33. Spieltag
-        VfB Stuttgart  -  Bayern München
-        FC Augsburg  -  RB Leipzig
-        Bor. Mönchengladbach  -  Eintracht Frankfurt
-        1. FC Union Berlin  -  SC Freiburg
-        Bayer 04 Leverkusen  -  TSG Hoffenheim
-        1. FSV Mainz 05  -  Hertha BSC
-        VfL Wolfsburg  -  1. FC Köln
-        Arminia Bielefeld  -  VfL Bochum
+        1. FC Köln  -  FC Augsburg
+        VfL Bochum  -  Borussia Dortmund
+        SpVgg Greuther Fürth  -  1. FC Union Berlin
+16. Spieltag
         Borussia Dortmund  -  SpVgg Greuther Fürth
-34. Spieltag
-        Hertha BSC  -  Borussia Dortmund
+        VfL Wolfsburg  -  1. FC Köln
+        Bayer 04 Leverkusen  -  TSG Hoffenheim
+        1. FC Union Berlin  -  SC Freiburg
+        Bor. Mönchengladbach  -  Eintracht Frankfurt
+        VfB Stuttgart  -  Bayern München
+        1. FSV Mainz 05  -  Hertha BSC
+        FC Augsburg  -  RB Leipzig
+        Arminia Bielefeld  -  VfL Bochum
+17. Spieltag
         Bayern München  -  VfL Wolfsburg
-        SC Freiburg  -  Bayer 04 Leverkusen
-        VfL Bochum  -  1. FC Union Berlin
-        TSG Hoffenheim  -  Bor. Mönchengladbach
-        1. FC Köln  -  VfB Stuttgart
-        Eintracht Frankfurt  -  1. FSV Mainz 05
-        SpVgg Greuther Fürth  -  FC Augsburg
         RB Leipzig  -  Arminia Bielefeld
+        Eintracht Frankfurt  -  1. FSV Mainz 05
+        SC Freiburg  -  Bayer 04 Leverkusen
+        TSG Hoffenheim  -  Bor. Mönchengladbach
+        Hertha BSC  -  Borussia Dortmund
+        1. FC Köln  -  VfB Stuttgart
+        VfL Bochum  -  1. FC Union Berlin
+        SpVgg Greuther Fürth  -  FC Augsburg
+18. Spieltag
+        Bayern München  -  Bor. Mönchengladbach
+        RB Leipzig  -  1. FSV Mainz 05
+        Eintracht Frankfurt  -  Borussia Dortmund
+        Bayer 04 Leverkusen  -  1. FC Union Berlin
+        SC Freiburg  -  Arminia Bielefeld
+        TSG Hoffenheim  -  FC Augsburg
+        Hertha BSC  -  1. FC Köln
+        VfL Bochum  -  VfL Wolfsburg
+        SpVgg Greuther Fürth  -  VfB Stuttgart
+19. Spieltag
+        Borussia Dortmund  -  SC Freiburg
+        VfL Wolfsburg  -  Hertha BSC
+        1. FC Union Berlin  -  TSG Hoffenheim
+        Bor. Mönchengladbach  -  Bayer 04 Leverkusen
+        VfB Stuttgart  -  RB Leipzig
+        1. FSV Mainz 05  -  VfL Bochum
+        FC Augsburg  -  Eintracht Frankfurt
+        Arminia Bielefeld  -  SpVgg Greuther Fürth
+        1. FC Köln  -  Bayern München
+20. Spieltag
+        RB Leipzig  -  VfL Wolfsburg
+        Eintracht Frankfurt  -  Arminia Bielefeld
+        Bayer 04 Leverkusen  -  FC Augsburg
+        Bor. Mönchengladbach  -  1. FC Union Berlin
+        SC Freiburg  -  VfB Stuttgart
+        TSG Hoffenheim  -  Borussia Dortmund
+        Hertha BSC  -  Bayern München
+        VfL Bochum  -  1. FC Köln
+        SpVgg Greuther Fürth  -  1. FSV Mainz 05
+21. Spieltag
+        Bayern München  -  RB Leipzig
+        Borussia Dortmund  -  Bayer 04 Leverkusen
+        VfL Wolfsburg  -  SpVgg Greuther Fürth
+        VfB Stuttgart  -  Eintracht Frankfurt
+        1. FSV Mainz 05  -  TSG Hoffenheim
+        FC Augsburg  -  1. FC Union Berlin
+        Hertha BSC  -  VfL Bochum
+        Arminia Bielefeld  -  Bor. Mönchengladbach
+        1. FC Köln  -  SC Freiburg
+22. Spieltag
+        RB Leipzig  -  1. FC Köln
+        Eintracht Frankfurt  -  VfL Wolfsburg
+        Bayer 04 Leverkusen  -  VfB Stuttgart
+        1. FC Union Berlin  -  Borussia Dortmund
+        Bor. Mönchengladbach  -  FC Augsburg
+        SC Freiburg  -  1. FSV Mainz 05
+        TSG Hoffenheim  -  Arminia Bielefeld
+        VfL Bochum  -  Bayern München
+        SpVgg Greuther Fürth  -  Hertha BSC
+23. Spieltag
+        Bayern München  -  SpVgg Greuther Fürth
+        Borussia Dortmund  -  Bor. Mönchengladbach
+        VfL Wolfsburg  -  TSG Hoffenheim
+        VfB Stuttgart  -  VfL Bochum
+        1. FSV Mainz 05  -  Bayer 04 Leverkusen
+        FC Augsburg  -  SC Freiburg
+        Hertha BSC  -  RB Leipzig
+        Arminia Bielefeld  -  1. FC Union Berlin
+        1. FC Köln  -  Eintracht Frankfurt
+24. Spieltag
+        Eintracht Frankfurt  -  Bayern München
+        Bayer 04 Leverkusen  -  Arminia Bielefeld
+        1. FC Union Berlin  -  1. FSV Mainz 05
+        Bor. Mönchengladbach  -  VfL Wolfsburg
+        SC Freiburg  -  Hertha BSC
+        TSG Hoffenheim  -  VfB Stuttgart
+        FC Augsburg  -  Borussia Dortmund
+        VfL Bochum  -  RB Leipzig
+        SpVgg Greuther Fürth  -  1. FC Köln
+25. Spieltag
+        Bayern München  -  Bayer 04 Leverkusen
+        RB Leipzig  -  SC Freiburg
+        VfL Wolfsburg  -  1. FC Union Berlin
+        VfB Stuttgart  -  Bor. Mönchengladbach
+        1. FSV Mainz 05  -  Borussia Dortmund
+        Hertha BSC  -  Eintracht Frankfurt
+        Arminia Bielefeld  -  FC Augsburg
+        1. FC Köln  -  TSG Hoffenheim
+        VfL Bochum  -  SpVgg Greuther Fürth
+26. Spieltag
+        Borussia Dortmund  -  Arminia Bielefeld
+        Eintracht Frankfurt  -  VfL Bochum
+        Bayer 04 Leverkusen  -  1. FC Köln
+        1. FC Union Berlin  -  VfB Stuttgart
+        Bor. Mönchengladbach  -  Hertha BSC
+        SC Freiburg  -  VfL Wolfsburg
+        TSG Hoffenheim  -  Bayern München
+        FC Augsburg  -  1. FSV Mainz 05
+        SpVgg Greuther Fürth  -  RB Leipzig
+27. Spieltag
+        Bayern München  -  1. FC Union Berlin
+        RB Leipzig  -  Eintracht Frankfurt
+        VfL Wolfsburg  -  Bayer 04 Leverkusen
+        VfB Stuttgart  -  FC Augsburg
+        1. FSV Mainz 05  -  Arminia Bielefeld
+        Hertha BSC  -  TSG Hoffenheim
+        1. FC Köln  -  Borussia Dortmund
+        VfL Bochum  -  Bor. Mönchengladbach
+        SpVgg Greuther Fürth  -  SC Freiburg
+28. Spieltag
+        Borussia Dortmund  -  RB Leipzig
+        Eintracht Frankfurt  -  SpVgg Greuther Fürth
+        Bayer 04 Leverkusen  -  Hertha BSC
+        1. FC Union Berlin  -  1. FC Köln
+        Bor. Mönchengladbach  -  1. FSV Mainz 05
+        SC Freiburg  -  Bayern München
+        TSG Hoffenheim  -  VfL Bochum
+        FC Augsburg  -  VfL Wolfsburg
+        Arminia Bielefeld  -  VfB Stuttgart
+29. Spieltag
+        Bayern München  -  FC Augsburg
+        RB Leipzig  -  TSG Hoffenheim
+        VfL Wolfsburg  -  Arminia Bielefeld
+        Eintracht Frankfurt  -  SC Freiburg
+        VfB Stuttgart  -  Borussia Dortmund
+        Hertha BSC  -  1. FC Union Berlin
+        1. FC Köln  -  1. FSV Mainz 05
+        VfL Bochum  -  Bayer 04 Leverkusen
+        SpVgg Greuther Fürth  -  Bor. Mönchengladbach
+30. Spieltag
+        Borussia Dortmund  -  VfL Wolfsburg
+        Bayer 04 Leverkusen  -  RB Leipzig
+        1. FC Union Berlin  -  Eintracht Frankfurt
+        Bor. Mönchengladbach  -  1. FC Köln
+        SC Freiburg  -  VfL Bochum
+        TSG Hoffenheim  -  SpVgg Greuther Fürth
+        1. FSV Mainz 05  -  VfB Stuttgart
+        FC Augsburg  -  Hertha BSC
+        Arminia Bielefeld  -  Bayern München
+31. Spieltag
+        Bayern München  -  Borussia Dortmund
+        RB Leipzig  -  1. FC Union Berlin
+        VfL Wolfsburg  -  1. FSV Mainz 05
+        Eintracht Frankfurt  -  TSG Hoffenheim
+        SC Freiburg  -  Bor. Mönchengladbach
+        Hertha BSC  -  VfB Stuttgart
+        1. FC Köln  -  Arminia Bielefeld
+        VfL Bochum  -  FC Augsburg
+        SpVgg Greuther Fürth  -  Bayer 04 Leverkusen
+32. Spieltag
+        Borussia Dortmund  -  VfL Bochum
+        Bayer 04 Leverkusen  -  Eintracht Frankfurt
+        1. FC Union Berlin  -  SpVgg Greuther Fürth
+        Bor. Mönchengladbach  -  RB Leipzig
+        VfB Stuttgart  -  VfL Wolfsburg
+        TSG Hoffenheim  -  SC Freiburg
+        1. FSV Mainz 05  -  Bayern München
+        FC Augsburg  -  1. FC Köln
+        Arminia Bielefeld  -  Hertha BSC
+33. Spieltag
+        Bayern München  -  VfB Stuttgart
+        RB Leipzig  -  FC Augsburg
+        Eintracht Frankfurt  -  Bor. Mönchengladbach
+        SC Freiburg  -  1. FC Union Berlin
+        TSG Hoffenheim  -  Bayer 04 Leverkusen
+        Hertha BSC  -  1. FSV Mainz 05
+        1. FC Köln  -  VfL Wolfsburg
+        VfL Bochum  -  Arminia Bielefeld
+        SpVgg Greuther Fürth  -  Borussia Dortmund
+34. Spieltag
+        Borussia Dortmund  -  Hertha BSC
+        VfL Wolfsburg  -  Bayern München
+        Bayer 04 Leverkusen  -  SC Freiburg
+        1. FC Union Berlin  -  VfL Bochum
+        Bor. Mönchengladbach  -  TSG Hoffenheim
+        VfB Stuttgart  -  1. FC Köln
+        1. FSV Mainz 05  -  Eintracht Frankfurt
+        FC Augsburg  -  SpVgg Greuther Fürth
+        Arminia Bielefeld  -  RB Leipzig
