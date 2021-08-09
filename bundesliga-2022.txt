@@ -1,13 +1,13 @@
 1. Spieltag
-        Bor. Mönchengladbach  -  Bayern München
-        VfL Wolfsburg  -  VfL Bochum
-        1. FC Union Berlin  -  Bayer 04 Leverkusen
-        VfB Stuttgart  -  SpVgg Greuther Fürth
-        FC Augsburg  -  TSG Hoffenheim
-        Arminia Bielefeld  -  SC Freiburg
-        Borussia Dortmund  -  Eintracht Frankfurt
-        1. FSV Mainz 05  -  RB Leipzig
-        1. FC Köln  -  Hertha BSC
+        Bor. Mönchengladbach  0-0  Bayern München
+        VfL Wolfsburg  0-0  VfL Bochum
+        1. FC Union Berlin  0-0  Bayer 04 Leverkusen
+        VfB Stuttgart  0-0  SpVgg Greuther Fürth
+        FC Augsburg  0-0  TSG Hoffenheim
+        Arminia Bielefeld  0-0  SC Freiburg
+        Borussia Dortmund  0-0  Eintracht Frankfurt
+        1. FSV Mainz 05  0-0  RB Leipzig
+        1. FC Köln  0-0  Hertha BSC
 2. Spieltag
         RB Leipzig  -  VfB Stuttgart
         Eintracht Frankfurt  -  FC Augsburg
