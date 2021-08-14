@@ -1,14 +1,14 @@
 1. Spieltag
 [Fr. 13.8.]
         Bor. Mönchengladbach  1-1  Bayern München
-        VfL Wolfsburg  0-0  VfL Bochum
-        1. FC Union Berlin  0-0  Bayer 04 Leverkusen
-        VfB Stuttgart  0-0  SpVgg Greuther Fürth
-        FC Augsburg  0-0  TSG Hoffenheim
+        VfL Wolfsburg  1-0  VfL Bochum
+        1. FC Union Berlin  1-1  Bayer 04 Leverkusen
+        VfB Stuttgart  5-1  SpVgg Greuther Fürth
+        FC Augsburg  0-4  TSG Hoffenheim
         Arminia Bielefeld  0-0  SC Freiburg
-        Borussia Dortmund  0-0  Eintracht Frankfurt
-        1. FSV Mainz 05  0-0  RB Leipzig
-        1. FC Köln  0-0  Hertha BSC
+        Borussia Dortmund  -  Eintracht Frankfurt
+        1. FSV Mainz 05  -  RB Leipzig
+        1. FC Köln  -  Hertha BSC
 2. Spieltag
         RB Leipzig  -  VfB Stuttgart
         Eintracht Frankfurt  -  FC Augsburg
