@@ -32,7 +32,7 @@
         1. FC Union Berlin  2-1  Bor. Mönchengladbach
         VfL Wolfsburg  1-0  RB Leipzig
 4. Spieltag
-[Fr. 11.9.]
+[Fr. 10.9.]
         Bayer 04 Leverkusen  3-4  Borussia Dortmund
         1. FC Union Berlin  0-0  FC Augsburg
         SC Freiburg  1-1  1. FC Köln
@@ -43,16 +43,16 @@
         VfL Bochum  1-3  Hertha BSC
         Bor. Mönchengladbach  3-1  Arminia Bielefeld
 5. Spieltag
-[Fr. 18.9.]
+[Fr. 17.9.]
         Hertha BSC  2-1  SpVgg Greuther Fürth
         Bayern München  7-0  VfL Bochum
         1. FSV Mainz 05  0-0  SC Freiburg
         FC Augsburg  1-0  Bor. Mönchengladbach
         Arminia Bielefeld  0-0  TSG Hoffenheim
         1. FC Köln  1-1  RB Leipzig
-        VfB Stuttgart  -  Bayer 04 Leverkusen
-        Borussia Dortmund  -  1. FC Union Berlin
-        VfL Wolfsburg  -  Eintracht Frankfurt
+        VfB Stuttgart  1-3  Bayer 04 Leverkusen
+        Borussia Dortmund  4-2  1. FC Union Berlin
+        VfL Wolfsburg  1-1  Eintracht Frankfurt
 6. Spieltag
         SpVgg Greuther Fürth  -  Bayern München
         RB Leipzig  -  Hertha BSC
