@@ -43,12 +43,13 @@
         VfL Bochum  1-3  Hertha BSC
         Bor. Mönchengladbach  3-1  Arminia Bielefeld
 5. Spieltag
-        Hertha BSC  -  SpVgg Greuther Fürth
-        Bayern München  -  VfL Bochum
-        1. FSV Mainz 05  -  SC Freiburg
-        FC Augsburg  -  Bor. Mönchengladbach
-        Arminia Bielefeld  -  TSG Hoffenheim
-        1. FC Köln  -  RB Leipzig
+[Fr. 18.9.]
+        Hertha BSC  2-1  SpVgg Greuther Fürth
+        Bayern München  7-0  VfL Bochum
+        1. FSV Mainz 05  0-0  SC Freiburg
+        FC Augsburg  1-0  Bor. Mönchengladbach
+        Arminia Bielefeld  0-0  TSG Hoffenheim
+        1. FC Köln  1-1  RB Leipzig
         VfB Stuttgart  -  Bayer 04 Leverkusen
         Borussia Dortmund  -  1. FC Union Berlin
         VfL Wolfsburg  -  Eintracht Frankfurt
