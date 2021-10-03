@@ -65,15 +65,16 @@
         VfL Bochum  0-0  VfB Stuttgart
         SC Freiburg  3-0  FC Augsburg
 7. Spieltag
+[Fr. 1.10.]
+        1. FC Köln  3-1  SpVgg Greuther Fürth
+        Borussia Dortmund  2-1  FC Augsburg
+        VfL Wolfsburg  1-3  Bor. Mönchengladbach
+        VfB Stuttgart  3-1  TSG Hoffenheim
+        Hertha BSC  1-2  SC Freiburg
+        RB Leipzig  3-0  VfL Bochum
         Bayern München  -  Eintracht Frankfurt
-        RB Leipzig  -  VfL Bochum
-        Borussia Dortmund  -  FC Augsburg
-        VfL Wolfsburg  -  Bor. Mönchengladbach
-        VfB Stuttgart  -  TSG Hoffenheim
         1. FSV Mainz 05  -  1. FC Union Berlin
-        Hertha BSC  -  SC Freiburg
         Arminia Bielefeld  -  Bayer 04 Leverkusen
-        1. FC Köln  -  SpVgg Greuther Fürth
 8. Spieltag
         Borussia Dortmund  -  1. FSV Mainz 05
         Eintracht Frankfurt  -  Hertha BSC
