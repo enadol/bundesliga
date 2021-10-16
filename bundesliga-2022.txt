@@ -77,16 +77,17 @@
         Arminia Bielefeld  0-4  Bayer 04 Leverkusen
 8. Spieltag
 [Fr. 15.10.]
-        Borussia Dortmund  -  1. FSV Mainz 05
-        Eintracht Frankfurt  -  Hertha BSC
-        Bayer 04 Leverkusen  -  Bayern München
-        1. FC Union Berlin  -  VfL Wolfsburg
+        TSG Hoffenheim  5-0  1. FC Köln
+        Borussia Dortmund  3-1  1. FSV Mainz 05
+        Eintracht Frankfurt  1-2  Hertha BSC
+        1. FC Union Berlin  2-0  VfL Wolfsburg
+        SC Freiburg  1-1  RB Leipzig
+        SpVgg Greuther Fürth  0-1  VfL Bochum
         Bor. Mönchengladbach  -  VfB Stuttgart
-        SC Freiburg  -  RB Leipzig
-        TSG Hoffenheim  -  1. FC Köln
+        Bayer 04 Leverkusen  -  Bayern München
         FC Augsburg  -  Arminia Bielefeld
-        SpVgg Greuther Fürth  -  VfL Bochum
 9. Spieltag
+[Fr. 22.10.]
         Bayern München  -  TSG Hoffenheim
         RB Leipzig  -  SpVgg Greuther Fürth
         VfL Wolfsburg  -  SC Freiburg
