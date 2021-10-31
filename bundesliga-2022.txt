@@ -100,14 +100,12 @@
 10. Spieltag
 [Fr. 29.10.]
         TSG Hoffenheim  2-0  Hertha BSC
-        Borussia Dortmund  -  1. FC Köln
-        Eintracht Frankfurt  -  RB Leipzig
-        Bayer 04 Leverkusen  -  VfL Wolfsburg
-        1. FC Union Berlin  -  Bayern München
-        Bor. Mönchengladbach  -  VfL Bochum
-        SC Freiburg  -  SpVgg Greuther Fürth
-        FC Augsburg  -  VfB Stuttgart
-        Arminia Bielefeld  -  1. FSV Mainz 05
+        Borussia Dortmund  2-0  1. FC Köln
+        Bayer 04 Leverkusen  0-2  VfL Wolfsburg
+        1. FC Union Berlin  2-5  Bayern München
+        SC Freiburg  3-1  SpVgg Greuther Fürth
+        Arminia Bielefeld  1-2  1. FSV Mainz 05
+        Eintracht Frankfurt  1-1  RB Leipzig
 11. Spieltag
         Bayern München  -  SC Freiburg
         RB Leipzig  -  Borussia Dortmund
