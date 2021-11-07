@@ -109,14 +109,15 @@
         FC Augsburg  4-1  VfB Stuttgart
         Bor. Mönchengladbach  2-1  VfL Bochum
 11. Spieltag
-        Bayern München  -  SC Freiburg
-        RB Leipzig  -  Borussia Dortmund
-        VfL Wolfsburg  -  FC Augsburg
-        VfB Stuttgart  -  Arminia Bielefeld
-        1. FSV Mainz 05  -  Bor. Mönchengladbach
+[Fr. 6.11.]
+        1. FSV Mainz 05  1-1  Bor. Mönchengladbach
+        Bayern München  2-1  SC Freiburg
+        VfL Wolfsburg  1-0  FC Augsburg
+        VfB Stuttgart  0-1  Arminia Bielefeld
+        VfL Bochum  2-0  TSG Hoffenheim
+        RB Leipzig  2-1  Borussia Dortmund
         Hertha BSC  -  Bayer 04 Leverkusen
         1. FC Köln  -  1. FC Union Berlin
-        VfL Bochum  -  TSG Hoffenheim
         SpVgg Greuther Fürth  -  Eintracht Frankfurt
 12. Spieltag
         Borussia Dortmund  -  VfB Stuttgart
