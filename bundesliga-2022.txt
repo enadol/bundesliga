@@ -109,7 +109,7 @@
         FC Augsburg  4-1  VfB Stuttgart
         Bor. Mönchengladbach  2-1  VfL Bochum
 11. Spieltag
-[Fr. 6.11.]
+[Fr. 5.11.]
         1. FSV Mainz 05  1-1  Bor. Mönchengladbach
         Bayern München  2-1  SC Freiburg
         VfL Wolfsburg  1-0  FC Augsburg
@@ -120,15 +120,16 @@
         1. FC Köln  2-2  1. FC Union Berlin
         SpVgg Greuther Fürth  1-2  Eintracht Frankfurt
 12. Spieltag
-        Borussia Dortmund  -  VfB Stuttgart
-        Bayer 04 Leverkusen  -  VfL Bochum
-        1. FC Union Berlin  -  Hertha BSC
-        Bor. Mönchengladbach  -  SpVgg Greuther Fürth
+[Fr. 19.11.]
+        FC Augsburg  2-1  Bayern München
+        Borussia Dortmund  2-1  VfB Stuttgart
+        Bayer 04 Leverkusen  1-0  VfL Bochum
+        Bor. Mönchengladbach  4-0  SpVgg Greuther Fürth
+        TSG Hoffenheim  2-0  RB Leipzig
+        Arminia Bielefeld  2-2  VfL Wolfsburg
+        1. FC Union Berlin  2-0  Hertha BSC
         SC Freiburg  -  Eintracht Frankfurt
-        TSG Hoffenheim  -  RB Leipzig
         1. FSV Mainz 05  -  1. FC Köln
-        FC Augsburg  -  Bayern München
-        Arminia Bielefeld  -  VfL Wolfsburg
 13. Spieltag
         Bayern München  -  Arminia Bielefeld
         RB Leipzig  -  Bayer 04 Leverkusen
