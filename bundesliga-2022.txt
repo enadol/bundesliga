@@ -154,14 +154,14 @@
         Bor. Mönchengladbach  0-6  SC Freiburg
 15. Spieltag
 [Fr. 11.12.]
-        Bayern München  -  1. FSV Mainz 05
-        RB Leipzig  -  Bor. Mönchengladbach
-        VfL Wolfsburg  -  VfB Stuttgart
+        1. FC Köln  0-2  FC Augsburg
+        Bayern München  2-1  1. FSV Mainz 05
+        RB Leipzig  4-1  Bor. Mönchengladbach
+        SC Freiburg  1-2  TSG Hoffenheim
+        Hertha BSC  2-0  Arminia Bielefeld
+        VfL Bochum  1-1  Borussia Dortmund
+        VfL Wolfsburg  0-2  VfB Stuttgart
         Eintracht Frankfurt  -  Bayer 04 Leverkusen
-        SC Freiburg  -  TSG Hoffenheim
-        Hertha BSC  -  Arminia Bielefeld
-        1. FC Köln  -  FC Augsburg
-        VfL Bochum  -  Borussia Dortmund
         SpVgg Greuther Fürth  -  1. FC Union Berlin
 16. Spieltag
         Borussia Dortmund  -  SpVgg Greuther Fürth
