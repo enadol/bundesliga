@@ -161,9 +161,10 @@
         Hertha BSC  2-0  Arminia Bielefeld
         VfL Bochum  1-1  Borussia Dortmund
         VfL Wolfsburg  0-2  VfB Stuttgart
-        Eintracht Frankfurt  -  Bayer 04 Leverkusen
-        SpVgg Greuther Fürth  -  1. FC Union Berlin
+        SpVgg Greuther Fürth  1-0  1. FC Union Berlin
+        Eintracht Frankfurt  5-2  Bayer 04 Leverkusen    
 16. Spieltag
+[Di. 14.12.]
         Borussia Dortmund  -  SpVgg Greuther Fürth
         VfL Wolfsburg  -  1. FC Köln
         Bayer 04 Leverkusen  -  TSG Hoffenheim
@@ -174,6 +175,7 @@
         FC Augsburg  -  RB Leipzig
         Arminia Bielefeld  -  VfL Bochum
 17. Spieltag
+[Fr. 17.12.]
         Bayern München  -  VfL Wolfsburg
         RB Leipzig  -  Arminia Bielefeld
         Eintracht Frankfurt  -  1. FSV Mainz 05
