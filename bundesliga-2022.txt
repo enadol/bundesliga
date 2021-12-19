@@ -165,26 +165,26 @@
         Eintracht Frankfurt  5-2  Bayer 04 Leverkusen    
 16. Spieltag
 [Di. 14.12.]
-        Borussia Dortmund  -  SpVgg Greuther Fürth
-        VfL Wolfsburg  -  1. FC Köln
-        Bayer 04 Leverkusen  -  TSG Hoffenheim
-        1. FC Union Berlin  -  SC Freiburg
-        Bor. Mönchengladbach  -  Eintracht Frankfurt
-        VfB Stuttgart  -  Bayern München
-        1. FSV Mainz 05  -  Hertha BSC
-        FC Augsburg  -  RB Leipzig
-        Arminia Bielefeld  -  VfL Bochum
+        VfB Stuttgart  0-5  Bayern München
+        VfL Wolfsburg  2-3  1. FC Köln
+        1. FSV Mainz 05  4-0  Hertha BSC
+        Arminia Bielefeld  2-0  VfL Bochum
+        Bor. Mönchengladbach  2-3  Eintracht Frankfurt
+        Borussia Dortmund  3-0  SpVgg Greuther Fürth
+        Bayer 04 Leverkusen  2-2  TSG Hoffenheim
+        1. FC Union Berlin  0-0  SC Freiburg
+        FC Augsburg  1-1  RB Leipzig
 17. Spieltag
 [Fr. 17.12.]
-        Bayern München  -  VfL Wolfsburg
-        RB Leipzig  -  Arminia Bielefeld
-        Eintracht Frankfurt  -  1. FSV Mainz 05
-        SC Freiburg  -  Bayer 04 Leverkusen
-        TSG Hoffenheim  -  Bor. Mönchengladbach
-        Hertha BSC  -  Borussia Dortmund
-        1. FC Köln  -  VfB Stuttgart
-        VfL Bochum  -  1. FC Union Berlin
-        SpVgg Greuther Fürth  -  FC Augsburg
+        Bayern München  4-0  VfL Wolfsburg
+        RB Leipzig  0-2  Arminia Bielefeld
+        Eintracht Frankfurt  1-0  1. FSV Mainz 05
+        TSG Hoffenheim  1-1  Bor. Mönchengladbach
+        VfL Bochum  0-1  1. FC Union Berlin
+        SpVgg Greuther Fürth  0-0  FC Augsburg
+        Hertha BSC  3-2  Borussia Dortmund
+        SC Freiburg  2-1  Bayer 04 Leverkusen
+        1. FC Köln  1-0  VfB Stuttgart
 18. Spieltag
         Bayern München  -  Bor. Mönchengladbach
         RB Leipzig  -  1. FSV Mainz 05
