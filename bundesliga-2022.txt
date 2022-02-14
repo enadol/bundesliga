@@ -231,16 +231,17 @@
         VfL Wolfsburg  4-1  SpVgg Greuther Fürth
 22. Spieltag
 [Fr. 11.2.]
-        RB Leipzig  -  1. FC Köln
-        Eintracht Frankfurt  -  VfL Wolfsburg
-        Bayer 04 Leverkusen  -  VfB Stuttgart
-        1. FC Union Berlin  -  Borussia Dortmund
-        Bor. Mönchengladbach  -  FC Augsburg
-        SC Freiburg  -  1. FSV Mainz 05
-        TSG Hoffenheim  -  Arminia Bielefeld
-        VfL Bochum  -  Bayern München
-        SpVgg Greuther Fürth  -  Hertha BSC
+        RB Leipzig  3-1  1. FC Köln
+        Eintracht Frankfurt  0-2  VfL Wolfsburg
+        Bor. Mönchengladbach  3-2  FC Augsburg
+        SC Freiburg  1-1  1. FSV Mainz 05
+        VfL Bochum  4-2  Bayern München
+        SpVgg Greuther Fürth  2-1  Hertha BSC
+        Bayer 04 Leverkusen  4-2  VfB Stuttgart
+        1. FC Union Berlin  0-3  Borussia Dortmund
+        TSG Hoffenheim  2-0  Arminia Bielefeld
 23. Spieltag
+[Fr. 18.2.]
         Bayern München  -  SpVgg Greuther Fürth
         Borussia Dortmund  -  Bor. Mönchengladbach
         VfL Wolfsburg  -  TSG Hoffenheim
