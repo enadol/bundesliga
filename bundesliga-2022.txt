@@ -253,15 +253,15 @@
         Hertha BSC  1-6  RB Leipzig
 24. Spieltag
 [Fr. 25.2.]
-        Eintracht Frankfurt  -  Bayern München
-        Bayer 04 Leverkusen  -  Arminia Bielefeld
-        1. FC Union Berlin  -  1. FSV Mainz 05
-        Bor. Mönchengladbach  -  VfL Wolfsburg
-        SC Freiburg  -  Hertha BSC
-        TSG Hoffenheim  -  VfB Stuttgart
+        TSG Hoffenheim  2-1  VfB Stuttgart
+        Bayer 04 Leverkusen  3-0  Arminia Bielefeld
+        1. FC Union Berlin  3-1  1. FSV Mainz 05
+        Bor. Mönchengladbach  2-2  VfL Wolfsburg
+        SC Freiburg  3-0  Hertha BSC
+        SpVgg Greuther Fürth  1-1  1. FC Köln
+        Eintracht Frankfurt  0-1  Bayern München
         FC Augsburg  -  Borussia Dortmund
         VfL Bochum  -  RB Leipzig
-        SpVgg Greuther Fürth  -  1. FC Köln
 25. Spieltag
         Bayern München  -  Bayer 04 Leverkusen
         RB Leipzig  -  SC Freiburg
