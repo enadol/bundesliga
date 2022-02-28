@@ -260,9 +260,10 @@
         SC Freiburg  3-0  Hertha BSC
         SpVgg Greuther Fürth  1-1  1. FC Köln
         Eintracht Frankfurt  0-1  Bayern München
-        FC Augsburg  -  Borussia Dortmund
-        VfL Bochum  -  RB Leipzig
+        VfL Bochum  0-1  RB Leipzig
+        FC Augsburg  1-1  Borussia Dortmund
 25. Spieltag
+[Fr. 2.3.]
         Bayern München  -  Bayer 04 Leverkusen
         RB Leipzig  -  SC Freiburg
         VfL Wolfsburg  -  1. FC Union Berlin
