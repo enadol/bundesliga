@@ -263,17 +263,18 @@
         VfL Bochum  0-1  RB Leipzig
         FC Augsburg  1-1  Borussia Dortmund
 25. Spieltag
-[Fr. 2.3.]
-        Bayern München  -  Bayer 04 Leverkusen
-        RB Leipzig  -  SC Freiburg
-        VfL Wolfsburg  -  1. FC Union Berlin
-        VfB Stuttgart  -  Bor. Mönchengladbach
+[Fr. 4.3.]
+        Arminia Bielefeld  0-1  FC Augsburg
+        Bayern München  1-1  Bayer 04 Leverkusen
+        RB Leipzig  1-1  SC Freiburg
+        VfL Wolfsburg  1-0  1. FC Union Berlin
+        Hertha BSC  1-4  Eintracht Frankfurt
+        VfL Bochum  2-1  SpVgg Greuther Fürth
+        VfB Stuttgart  3-2  Bor. Mönchengladbach
+        1. FC Köln  0-1  TSG Hoffenheim
         1. FSV Mainz 05  -  Borussia Dortmund
-        Hertha BSC  -  Eintracht Frankfurt
-        Arminia Bielefeld  -  FC Augsburg
-        1. FC Köln  -  TSG Hoffenheim
-        VfL Bochum  -  SpVgg Greuther Fürth
 26. Spieltag
+[Fr. 11.3.]
         Borussia Dortmund  -  Arminia Bielefeld
         Eintracht Frankfurt  -  VfL Bochum
         Bayer 04 Leverkusen  -  1. FC Köln
