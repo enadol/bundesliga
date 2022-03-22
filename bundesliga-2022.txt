@@ -272,28 +272,29 @@
         VfL Bochum  2-1  SpVgg Greuther Fürth
         VfB Stuttgart  3-2  Bor. Mönchengladbach
         1. FC Köln  0-1  TSG Hoffenheim
-        1. FSV Mainz 05  -  Borussia Dortmund
+        1. FSV Mainz 05  0-1  Borussia Dortmund
 26. Spieltag
 [Fr. 11.3.]
-        Borussia Dortmund  -  Arminia Bielefeld
-        Eintracht Frankfurt  -  VfL Bochum
-        Bayer 04 Leverkusen  -  1. FC Köln
-        1. FC Union Berlin  -  VfB Stuttgart
-        Bor. Mönchengladbach  -  Hertha BSC
-        SC Freiburg  -  VfL Wolfsburg
-        TSG Hoffenheim  -  Bayern München
+        Borussia Dortmund  1-0  Arminia Bielefeld
+        Eintracht Frankfurt  2-1  VfL Bochum
+        Bayer 04 Leverkusen  0-1  1. FC Köln
+        1. FC Union Berlin  1-1  VfB Stuttgart
+        Bor. Mönchengladbach  2-0  Hertha BSC
+        SC Freiburg  3-2  VfL Wolfsburg
+        TSG Hoffenheim  1-1  Bayern München
         FC Augsburg  -  1. FSV Mainz 05
-        SpVgg Greuther Fürth  -  RB Leipzig
+        SpVgg Greuther Fürth  1-6  RB Leipzig
 27. Spieltag
-        Bayern München  -  1. FC Union Berlin
-        RB Leipzig  -  Eintracht Frankfurt
-        VfL Wolfsburg  -  Bayer 04 Leverkusen
-        VfB Stuttgart  -  FC Augsburg
-        1. FSV Mainz 05  -  Arminia Bielefeld
-        Hertha BSC  -  TSG Hoffenheim
-        1. FC Köln  -  Borussia Dortmund
-        VfL Bochum  -  Bor. Mönchengladbach
-        SpVgg Greuther Fürth  -  SC Freiburg
+[Fr. 18.3.]
+        Bayern München  4-0  1. FC Union Berlin
+        RB Leipzig  0-0  Eintracht Frankfurt
+        VfL Wolfsburg  0-2  Bayer 04 Leverkusen
+        VfB Stuttgart  3-2  FC Augsburg
+        1. FSV Mainz 05  4-0  Arminia Bielefeld
+        Hertha BSC  3-0  TSG Hoffenheim
+        1. FC Köln  1-1  Borussia Dortmund
+        VfL Bochum  0-2  Bor. Mönchengladbach
+        SpVgg Greuther Fürth  0-0  SC Freiburg
 28. Spieltag
         Borussia Dortmund  -  RB Leipzig
         Eintracht Frankfurt  -  SpVgg Greuther Fürth
