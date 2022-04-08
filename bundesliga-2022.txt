@@ -282,7 +282,7 @@
         Bor. Mönchengladbach  2-0  Hertha BSC
         SC Freiburg  3-2  VfL Wolfsburg
         TSG Hoffenheim  1-1  Bayern München
-        FC Augsburg  -  1. FSV Mainz 05
+        FC Augsburg  2-1  1. FSV Mainz 05
         SpVgg Greuther Fürth  1-6  RB Leipzig
 27. Spieltag
 [Fr. 18.3.]
@@ -298,14 +298,14 @@
 28. Spieltag
 [Fr. 1.4.]
         1. FC Union Berlin  1-0  1. FC Köln
-        Borussia Dortmund  -  RB Leipzig
-        Eintracht Frankfurt  -  SpVgg Greuther Fürth
-        Bayer 04 Leverkusen  -  Hertha BSC
-        Bor. Mönchengladbach  -  1. FSV Mainz 05
-        SC Freiburg  -  Bayern München
-        TSG Hoffenheim  -  VfL Bochum
-        FC Augsburg  -  VfL Wolfsburg
-        Arminia Bielefeld  -  VfB Stuttgart
+        Borussia Dortmund  1-4  RB Leipzig
+        Eintracht Frankfurt  0-0  SpVgg Greuther Fürth
+        Bayer 04 Leverkusen  2-1  Hertha BSC
+        Bor. Mönchengladbach  1-1  1. FSV Mainz 05
+        SC Freiburg  1-4  Bayern München
+        TSG Hoffenheim 1 2-  VfL Bochum
+        FC Augsburg  3-0  VfL Wolfsburg
+        Arminia Bielefeld  1-1  VfB Stuttgart
 29. Spieltag
         Bayern München  -  FC Augsburg
         RB Leipzig  -  TSG Hoffenheim
