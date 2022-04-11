@@ -314,10 +314,11 @@
         1. FC Köln  3-2  1. FSV Mainz 05
         SpVgg Greuther Fürth  0-2  Bor. Mönchengladbach
         Hertha BSC  1-4  1. FC Union Berlin
-        RB Leipzig  -  TSG Hoffenheim
-        Eintracht Frankfurt  -  SC Freiburg
-        VfL Bochum  -  Bayer 04 Leverkusen
+        VfL Bochum  0-0  Bayer 04 Leverkusen
+        Eintracht Frankfurt  1-2  SC Freiburg
+        RB Leipzig  3-0  TSG Hoffenheim
 30. Spieltag
+[Fr. 15.4.]
         Borussia Dortmund  -  VfL Wolfsburg
         Bayer 04 Leverkusen  -  RB Leipzig
         1. FC Union Berlin  -  Eintracht Frankfurt
