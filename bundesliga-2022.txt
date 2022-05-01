@@ -340,15 +340,16 @@
         VfL Bochum  0-2  FC Augsburg
         Hertha BSC  2-0  VfB Stuttgart
 32. Spieltag
-        Borussia Dortmund  -  VfL Bochum
+[Fr. 29.4.]
+        1. FC Union Berlin  1-1  SpVgg Greuther Fürth
+        Borussia Dortmund  3-4  VfL Bochum
+        VfB Stuttgart  1-1  VfL Wolfsburg
+        1. FSV Mainz 05  3-1  Bayern München
+        FC Augsburg  1-4  1. FC Köln
+        Arminia Bielefeld  1-1  Hertha BSC
+        TSG Hoffenheim  3-4  SC Freiburg
         Bayer 04 Leverkusen  -  Eintracht Frankfurt
-        1. FC Union Berlin  -  SpVgg Greuther Fürth
         Bor. Mönchengladbach  -  RB Leipzig
-        VfB Stuttgart  -  VfL Wolfsburg
-        TSG Hoffenheim  -  SC Freiburg
-        1. FSV Mainz 05  -  Bayern München
-        FC Augsburg  -  1. FC Köln
-        Arminia Bielefeld  -  Hertha BSC
 33. Spieltag
         Bayern München  -  VfB Stuttgart
         RB Leipzig  -  FC Augsburg
