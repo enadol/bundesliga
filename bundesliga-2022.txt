@@ -348,8 +348,8 @@
         FC Augsburg  1-4  1. FC Köln
         Arminia Bielefeld  1-1  Hertha BSC
         TSG Hoffenheim  3-4  SC Freiburg
-        Bayer 04 Leverkusen  -  Eintracht Frankfurt
-        Bor. Mönchengladbach  -  RB Leipzig
+        Bayer 04 Leverkusen  2-0  Eintracht Frankfurt
+        Bor. Mönchengladbach  3-1  RB Leipzig
 33. Spieltag
         Bayern München  -  VfB Stuttgart
         RB Leipzig  -  FC Augsburg
