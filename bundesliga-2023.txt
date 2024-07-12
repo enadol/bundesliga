@@ -1,11 +1,374 @@
 1. Spieltag
-[Fr. 5.8.]
-        Eintracht Frankfurt  1-6  Bayern München
-        1. FC Union Berlin  3-1  Hertha BSC
-        Bor. Mönchengladbach  3-1  TSG Hoffenheim
-        VfL Wolfsburg  2-2  Werder Bremen
-        VfL Bochum  1-2  1. FSV Mainz 05
-        FC Augsburg  0-4  SC Freiburg
-        Borussia Dortmund  1-0  Bayer 04 Leverkusen
-        VfB Stuttgart  1-1  RB Leipzig
-        1. FC Köln  3-1  FC Schalke 04
+[Fr. 23.8.]
+    Werder Bremen  0-0  Bayern München
+    Bayer 04 Leverkusen  3-2  RB Leipzig
+    VfL Wolfsburg  2-2  1. FC Heidenheim
+    TSG Hoffenheim  1-0  SC Freiburg
+    FC Augsburg  4-3  Bor. Mönchengladbach
+    VfB Stuttgart  5-2  VfL Bochum
+    Borussia Dortmund  1-0  1. FC Köln
+    1. FC Union Berlin  4-2  1. FSV Mainz 05
+    Eintracht Frankfurt  1-1  SV Darmstadt 98
+2. Spieltag
+[Fr. 23.8.]
+    RB Leipzig  5-0  VfB Stuttgart
+    SC Freiburg  1-0  Werder Bremen
+    1. FC Köln  1-0  VfL Wolfsburg
+    VfL Bochum  1-1  Borussia Dortmund
+    1. FC Heidenheim  2-1  TSG Hoffenheim
+    SV Darmstadt 98  1-1  1. FC Union Berlin
+    Bor. Mönchengladbach  0-0  Bayer 04 Leverkusen
+    1. FSV Mainz 05  1-1  Eintracht Frankfurt
+    Bayern München  3-2  FC Augsburg
+3. Spieltag
+[Fr. 23.8.]
+    Borussia Dortmund  2-2  1. FC Heidenheim
+    Bayer 04 Leverkusen  5-1  SV Darmstadt 98
+    TSG Hoffenheim  3-1  VfL Wolfsburg
+    Werder Bremen  4-1  1. FSV Mainz 05
+    FC Augsburg  2-1  VfL Bochum
+    VfB Stuttgart  5-3  SC Freiburg
+    Bor. Mönchengladbach  1-1  Bayern München
+    Eintracht Frankfurt  1-0  1. FC Köln
+    1. FC Union Berlin  0-0  RB Leipzig
+4. Spieltag
+[Fr. 23.8.]
+    Bayern München  2-1  Bayer 04 Leverkusen
+    RB Leipzig  3-3  FC Augsburg
+    SC Freiburg  2-2  Borussia Dortmund
+    VfL Wolfsburg  2-2  1. FC Union Berlin
+    1. FSV Mainz 05  1-0  VfB Stuttgart
+    1. FC Köln  1-0  TSG Hoffenheim
+    VfL Bochum  1-0  Eintracht Frankfurt
+    1. FC Heidenheim  4-2  Werder Bremen
+    SV Darmstadt 98  3-3  Bor. Mönchengladbach
+5. Spieltag
+[Fr. 23.8.]
+    VfB Stuttgart  3-2  SV Darmstadt 98
+    Bayern München  7-4  VfL Bochum
+    Borussia Dortmund  1-0  VfL Wolfsburg
+    1. FC Union Berlin  0-0  TSG Hoffenheim
+    Bor. Mönchengladbach  0-0  RB Leipzig
+    FC Augsburg  2-2  1. FSV Mainz 05
+    Werder Bremen  2-1  1. FC Köln
+    Bayer 04 Leverkusen  4-1  1. FC Heidenheim
+    Eintracht Frankfurt  0-0  SC Freiburg
+6. Spieltag
+[Fr. 23.8.]
+    TSG Hoffenheim  1-1  Borussia Dortmund
+    VfL Wolfsburg  2-1  Eintracht Frankfurt
+    1. FSV Mainz 05  0-0  Bayer 04 Leverkusen
+    1. FC Köln  0-0  VfB Stuttgart
+    VfL Bochum  1-0  Bor. Mönchengladbach
+    1. FC Heidenheim  1-0  1. FC Union Berlin
+    RB Leipzig  2-2  Bayern München
+    SV Darmstadt 98  4-2  Werder Bremen
+    SC Freiburg  2-1  FC Augsburg
+7. Spieltag
+[Fr. 23.8.]
+    Bor. Mönchengladbach  2-1  1. FSV Mainz 05
+    Borussia Dortmund  4-1  1. FC Union Berlin
+    RB Leipzig  0-0  VfL Bochum
+    FC Augsburg  1-0  SV Darmstadt 98
+    VfB Stuttgart  3-0  VfL Wolfsburg
+    Werder Bremen  2-1  TSG Hoffenheim
+    Bayer 04 Leverkusen  3-2  1. FC Köln
+    Bayern München  3-2  SC Freiburg
+    Eintracht Frankfurt  2-1  1. FC Heidenheim
+8. Spieltag
+[Fr. 23.8.]
+    Borussia Dortmund  1-0  Werder Bremen
+    1. FC Union Berlin  0-0  VfB Stuttgart
+    SC Freiburg  2-2  VfL Bochum
+    VfL Wolfsburg  1-1  Bayer 04 Leverkusen
+    TSG Hoffenheim  1-1  Eintracht Frankfurt
+    SV Darmstadt 98  1-1  RB Leipzig
+    1. FSV Mainz 05  1-1  Bayern München
+    1. FC Köln  3-1  Bor. Mönchengladbach
+    1. FC Heidenheim  2-2  FC Augsburg
+9. Spieltag
+[Fr. 23.8.]
+    VfL Bochum  2-1  1. FSV Mainz 05
+    Bayern München  8-0  SV Darmstadt 98
+    Bor. Mönchengladbach  2-1  1. FC Heidenheim
+    Werder Bremen  2-1  1. FC Union Berlin
+    FC Augsburg  3-1  VfL Wolfsburg
+    VfB Stuttgart  2-0  TSG Hoffenheim
+    RB Leipzig  6-4  1. FC Köln
+    Eintracht Frankfurt  3-2  Borussia Dortmund
+    Bayer 04 Leverkusen  2-1  SC Freiburg
+10. Spieltag
+[Fr. 23.8.]
+    SV Darmstadt 98  1-1  VfL Bochum
+    1. FC Union Berlin  0-0  Eintracht Frankfurt
+    SC Freiburg  3-1  Bor. Mönchengladbach
+    1. FSV Mainz 05  2-0  RB Leipzig
+    1. FC Köln  1-1  FC Augsburg
+    TSG Hoffenheim  2-0  Bayer 04 Leverkusen
+    Borussia Dortmund  0-0  Bayern München
+    VfL Wolfsburg  2-1  Werder Bremen
+    1. FC Heidenheim  2-0  VfB Stuttgart
+11. Spieltag
+[Fr. 23.8.]
+    Bor. Mönchengladbach  4-2  VfL Wolfsburg
+    Bayern München  4-2  1. FC Heidenheim
+    FC Augsburg  1-0  TSG Hoffenheim
+    VfB Stuttgart  2-1  Borussia Dortmund
+    SV Darmstadt 98  0-0  1. FSV Mainz 05
+    VfL Bochum  1-1  1. FC Köln
+    Bayer 04 Leverkusen  4-1  1. FC Union Berlin
+    Werder Bremen  2-1  Eintracht Frankfurt
+    RB Leipzig  3-1  SC Freiburg
+12. Spieltag
+[Fr. 23.8.]
+    1. FC Köln  0-0  Bayern München
+    Borussia Dortmund  4-3  Bor. Mönchengladbach
+    1. FC Union Berlin  1-0  FC Augsburg
+    SC Freiburg  1-1  SV Darmstadt 98
+    VfL Wolfsburg  2-1  RB Leipzig
+    Werder Bremen  0-0  Bayer 04 Leverkusen
+    Eintracht Frankfurt  1-1  VfB Stuttgart
+    1. FC Heidenheim  0-0  VfL Bochum
+    TSG Hoffenheim  1-0  1. FSV Mainz 05
+13. Spieltag
+[Fr. 23.8.]
+    SV Darmstadt 98  0-0  1. FC Köln
+    RB Leipzig  2-2  1. FC Heidenheim
+    Bor. Mönchengladbach  2-0  TSG Hoffenheim
+    VfL Bochum  3-2  VfL Wolfsburg
+    VfB Stuttgart  2-1  Werder Bremen
+    1. FSV Mainz 05  0-0  SC Freiburg
+    Bayer 04 Leverkusen  1-0  Borussia Dortmund
+    FC Augsburg  2-1  Eintracht Frankfurt
+    Bayern München  1-0  1. FC Union Berlin
+14. Spieltag
+[Fr. 23.8.]
+    TSG Hoffenheim  3-2  VfL Bochum
+    1. FC Union Berlin  3-1  Bor. Mönchengladbach
+    Eintracht Frankfurt  5-3  Bayern München
+    VfL Wolfsburg  0-0  SC Freiburg
+    Werder Bremen  2-1  FC Augsburg
+    1. FC Heidenheim  3-1  SV Darmstadt 98
+    Borussia Dortmund  2-1  RB Leipzig
+    VfB Stuttgart  1-1  Bayer 04 Leverkusen
+    1. FC Köln  0-0  1. FSV Mainz 05
+15. Spieltag
+[Fr. 23.8.]
+    Bor. Mönchengladbach  2-1  Werder Bremen
+    1. FSV Mainz 05  0-0  1. FC Heidenheim
+    VfL Bochum  3-1  1. FC Union Berlin
+    FC Augsburg  1-1  Borussia Dortmund
+    SV Darmstadt 98  0-0  VfL Wolfsburg
+    RB Leipzig  3-1  TSG Hoffenheim
+    SC Freiburg  2-0  1. FC Köln
+    Bayer 04 Leverkusen  3-1  Eintracht Frankfurt
+    Bayern München  3-1  VfB Stuttgart
+16. Spieltag
+[Fr. 23.8.]
+    Werder Bremen  1-0  RB Leipzig
+    Borussia Dortmund  1-1  1. FSV Mainz 05
+    TSG Hoffenheim  3-2  SV Darmstadt 98
+    1. FC Union Berlin  2-0  1. FC Köln
+    Bayer 04 Leverkusen  4-3  VfL Bochum
+    Eintracht Frankfurt  2-0  Bor. Mönchengladbach
+    VfL Wolfsburg  1-1  Bayern München
+    VfB Stuttgart  3-2  FC Augsburg
+    1. FC Heidenheim  3-0  SC Freiburg
+17. Spieltag
+[Fr. 23.8.]
+    Bayern München  3-1  TSG Hoffenheim
+    RB Leipzig  0-0  Eintracht Frankfurt
+    SC Freiburg  0-0  1. FC Union Berlin
+    1. FSV Mainz 05  1-0  VfL Wolfsburg
+    1. FC Köln  1-1  1. FC Heidenheim
+    FC Augsburg  0-0  Bayer 04 Leverkusen
+    SV Darmstadt 98  0-0  Borussia Dortmund
+    VfL Bochum  1-0  Werder Bremen
+    Bor. Mönchengladbach  3-2  VfB Stuttgart
+18. Spieltag
+[Fr. 23.8.]
+    SC Freiburg  3-1  TSG Hoffenheim
+    1. FC Köln  0-0  Borussia Dortmund
+    VfL Bochum  1-0  VfB Stuttgart
+    1. FC Heidenheim  1-1  VfL Wolfsburg
+    SV Darmstadt 98  2-0  Eintracht Frankfurt
+    RB Leipzig  2-1  Bayer 04 Leverkusen
+    Bayern München  0-0  Werder Bremen
+    Bor. Mönchengladbach  1-1  FC Augsburg
+    1. FSV Mainz 05  1-1  1. FC Union Berlin
+19. Spieltag
+[Fr. 23.8.]
+    Eintracht Frankfurt  1-0  1. FSV Mainz 05
+    VfL Wolfsburg  1-1  1. FC Köln
+    TSG Hoffenheim  1-1  1. FC Heidenheim
+    Werder Bremen  3-1  SC Freiburg
+    FC Augsburg  2-0  Bayern München
+    VfB Stuttgart  5-2  RB Leipzig
+    Bayer 04 Leverkusen  0-0  Bor. Mönchengladbach
+    1. FC Union Berlin  1-0  SV Darmstadt 98
+    Borussia Dortmund  3-1  VfL Bochum
+20. Spieltag
+[Fr. 23.8.]
+    1. FC Heidenheim  0-0  Borussia Dortmund
+    Bayern München  3-1  Bor. Mönchengladbach
+    SC Freiburg  1-1  VfB Stuttgart
+    1. FSV Mainz 05  0-0  Werder Bremen
+    VfL Bochum  1-1  FC Augsburg
+    SV Darmstadt 98  0-0  Bayer 04 Leverkusen
+    1. FC Köln  2-0  Eintracht Frankfurt
+    VfL Wolfsburg  2-0  TSG Hoffenheim
+    RB Leipzig  2-1  1. FC Union Berlin
+21. Spieltag
+[Fr. 23.8.]
+    Borussia Dortmund  3-2  SC Freiburg
+    1. FC Union Berlin  1-1  VfL Wolfsburg
+    Eintracht Frankfurt  1-1  VfL Bochum
+    Bor. Mönchengladbach  0-0  SV Darmstadt 98
+    Werder Bremen  1-1  1. FC Heidenheim
+    FC Augsburg  2-1  RB Leipzig
+    Bayer 04 Leverkusen  3-1  Bayern München
+    VfB Stuttgart  3-2  1. FSV Mainz 05
+    TSG Hoffenheim  1-0  1. FC Köln
+22. Spieltag
+[Fr. 23.8.]
+    1. FC Köln  0-0  Werder Bremen
+    VfL Wolfsburg  1-0  Borussia Dortmund
+    1. FSV Mainz 05  1-1  FC Augsburg
+    TSG Hoffenheim  0-0  1. FC Union Berlin
+    1. FC Heidenheim  1-0  Bayer 04 Leverkusen
+    SV Darmstadt 98  1-0  VfB Stuttgart
+    RB Leipzig  2-1  Bor. Mönchengladbach
+    SC Freiburg  3-2  Eintracht Frankfurt
+    VfL Bochum  3-2  Bayern München
+23. Spieltag
+[Fr. 23.8.]
+    Bayer 04 Leverkusen  2-1  1. FSV Mainz 05
+    1. FC Union Berlin  2-2  1. FC Heidenheim
+    Bor. Mönchengladbach  5-2  VfL Bochum
+    Werder Bremen  1-1  SV Darmstadt 98
+    VfB Stuttgart  1-0  1. FC Köln
+    Bayern München  2-0  RB Leipzig
+    Eintracht Frankfurt  2-1  VfL Wolfsburg
+    Borussia Dortmund  2-2  TSG Hoffenheim
+    FC Augsburg  2-0  SC Freiburg
+24. Spieltag
+[Fr. 23.8.]
+    SC Freiburg  2-1  Bayern München
+    1. FC Union Berlin  0-0  Borussia Dortmund
+    1. FSV Mainz 05  1-1  Bor. Mönchengladbach
+    VfL Bochum  1-1  RB Leipzig
+    1. FC Heidenheim  1-0  Eintracht Frankfurt
+    SV Darmstadt 98  0-0  FC Augsburg
+    VfL Wolfsburg  2-0  VfB Stuttgart
+    1. FC Köln  0-0  Bayer 04 Leverkusen
+    TSG Hoffenheim  2-2  Werder Bremen
+25. Spieltag
+[Fr. 23.8.]
+    VfB Stuttgart  2-1  1. FC Union Berlin
+    Bayern München  8-3  1. FSV Mainz 05
+    RB Leipzig  2-1  SV Darmstadt 98
+    Bor. Mönchengladbach  3-1  1. FC Köln
+    FC Augsburg  1-1  1. FC Heidenheim
+    Werder Bremen  1-0  Borussia Dortmund
+    VfL Bochum  1-0  SC Freiburg
+    Eintracht Frankfurt  3-1  TSG Hoffenheim
+    Bayer 04 Leverkusen  2-1  VfL Wolfsburg
+26. Spieltag
+[Fr. 23.8.]
+    1. FC Köln  1-1  RB Leipzig
+    1. FC Union Berlin  2-0  Werder Bremen
+    VfL Wolfsburg  1-1  FC Augsburg
+    1. FSV Mainz 05  2-1  VfL Bochum
+    1. FC Heidenheim  1-0  Bor. Mönchengladbach
+    SV Darmstadt 98  2-1  Bayern München
+    TSG Hoffenheim  0-0  VfB Stuttgart
+    SC Freiburg  2-1  Bayer 04 Leverkusen
+    Borussia Dortmund  3-1  Eintracht Frankfurt
+27. Spieltag
+[Fr. 23.8.]
+    RB Leipzig  0-0  1. FSV Mainz 05
+    Bayer 04 Leverkusen  2-0  TSG Hoffenheim
+    Eintracht Frankfurt  0-0  1. FC Union Berlin
+    Bor. Mönchengladbach  0-0  SC Freiburg
+    Werder Bremen  0-0  VfL Wolfsburg
+    Bayern München  0-0  Borussia Dortmund
+    FC Augsburg  1-1  1. FC Köln
+    VfB Stuttgart  3-1  1. FC Heidenheim
+    VfL Bochum  2-1  SV Darmstadt 98
+28. Spieltag
+[Fr. 23.8.]
+    Eintracht Frankfurt  1-0  Werder Bremen
+    1. FC Union Berlin  0-0  Bayer 04 Leverkusen
+    SC Freiburg  1-0  RB Leipzig
+    1. FSV Mainz 05  4-1  SV Darmstadt 98
+    1. FC Köln  2-0  VfL Bochum
+    1. FC Heidenheim  3-0  Bayern München
+    Borussia Dortmund  0-0  VfB Stuttgart
+    TSG Hoffenheim  3-2  FC Augsburg
+    VfL Wolfsburg  1-1  Bor. Mönchengladbach
+29. Spieltag
+[Fr. 23.8.]
+    FC Augsburg  2-0  1. FC Union Berlin
+    Bayern München  2-0  1. FC Köln
+    RB Leipzig  3-1  VfL Wolfsburg
+    1. FSV Mainz 05  4-0  TSG Hoffenheim
+    Bor. Mönchengladbach  1-1  Borussia Dortmund
+    VfL Bochum  1-0  1. FC Heidenheim
+    VfB Stuttgart  3-3  Eintracht Frankfurt
+    SV Darmstadt 98  0-0  SC Freiburg
+    Bayer 04 Leverkusen  5-1  Werder Bremen
+30. Spieltag
+[Fr. 23.8.]
+    Eintracht Frankfurt  3-0  FC Augsburg
+    VfL Wolfsburg  1-1  VfL Bochum
+    1. FC Köln  0-0  SV Darmstadt 98
+    TSG Hoffenheim  4-1  Bor. Mönchengladbach
+    1. FC Heidenheim  1-0  RB Leipzig
+    1. FC Union Berlin  1-0  Bayern München
+    Werder Bremen  2-1  VfB Stuttgart
+    Borussia Dortmund  1-0  Bayer 04 Leverkusen
+    SC Freiburg  1-1  1. FSV Mainz 05
+31. Spieltag
+[Fr. 23.8.]
+    VfL Bochum  3-2  TSG Hoffenheim
+    Bayern München  2-1  Eintracht Frankfurt
+    RB Leipzig  4-2  Borussia Dortmund
+    SC Freiburg  1-1  VfL Wolfsburg
+    FC Augsburg  0-0  Werder Bremen
+    Bayer 04 Leverkusen  2-0  VfB Stuttgart
+    Bor. Mönchengladbach  0-0  1. FC Union Berlin
+    1. FSV Mainz 05  1-1  1. FC Köln
+    SV Darmstadt 98  0-0  1. FC Heidenheim
+32. Spieltag
+[Fr. 23.8.]
+    TSG Hoffenheim  1-0  RB Leipzig
+    Borussia Dortmund  5-4  FC Augsburg
+    VfL Wolfsburg  3-2  SV Darmstadt 98
+    Werder Bremen  2-1  Bor. Mönchengladbach
+    VfB Stuttgart  3-1  Bayern München
+    1. FC Köln  0-0  SC Freiburg
+    1. FC Union Berlin  3-0  VfL Bochum
+    Eintracht Frankfurt  1-1  Bayer 04 Leverkusen
+    1. FC Heidenheim  1-0  1. FSV Mainz 05
+33. Spieltag
+[Fr. 23.8.]
+    FC Augsburg  0-0  VfB Stuttgart
+    RB Leipzig  1-0  Werder Bremen
+    SC Freiburg  1-1  1. FC Heidenheim
+    Bor. Mönchengladbach  1-1  Eintracht Frankfurt
+    1. FC Köln  3-1  1. FC Union Berlin
+    1. FSV Mainz 05  3-3  Borussia Dortmund
+    SV Darmstadt 98  0-0  TSG Hoffenheim
+    Bayern München  2-2  VfL Wolfsburg
+    VfL Bochum  0-0  Bayer 04 Leverkusen
+34. Spieltag
+[Fr. 23.8.]
+    Borussia Dortmund  4-2  SV Darmstadt 98
+    1. FC Union Berlin  2-0  SC Freiburg
+    Bayer 04 Leverkusen  2-2  FC Augsburg
+    Eintracht Frankfurt  2-0  RB Leipzig
+    VfL Wolfsburg  1-1  1. FSV Mainz 05
+    TSG Hoffenheim  4-1  Bayern München
+    Werder Bremen  4-1  VfL Bochum
+    VfB Stuttgart  4-2  Bor. Mönchengladbach
+    1. FC Heidenheim  4-3  1. FC Köln
